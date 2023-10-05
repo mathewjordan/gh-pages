@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://canopy-iiif.github.io
+Host: https://mathewjordan.github.io
 
 # Sitemaps
-Sitemap: https://canopy-iiif.github.io/sitemap.xml
+Sitemap: https://mathewjordan.github.io/sitemap.xml
